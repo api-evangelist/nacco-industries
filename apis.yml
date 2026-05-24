@@ -30,6 +30,8 @@ apis:
 common:
   - type: Website
     url: https://www.nacco.com
+  - type: LLMsTxt
+    url: https://nacco.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
