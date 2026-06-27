@@ -30,7 +30,7 @@ apis:
 common:
   - type: Website
     url: https://www.nacco.com
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://nacco.com/llms.txt
 maintainers:
   - FN: Kin Lane
