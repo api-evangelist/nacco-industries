@@ -28,6 +28,8 @@ apis:
     description: >-
       The NACCO Industries API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: DomainSecurity
+    url: security/nacco-industries-domain-security.yml
   - type: Website
     url: https://www.nacco.com
   - type: LlmsText
